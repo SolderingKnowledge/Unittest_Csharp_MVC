@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unittest_Csharp_MVC", "Unittest_Csharp_MVC\Unittest_Csharp_MVC.csproj", "{F2DE480D-210D-4CAA-BF26-F8CE398A63B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unittest_Csharp_MVC.Tests", "Unittest_Csharp_MVC.Tests\Unittest_Csharp_MVC.Tests.csproj", "{DBEF6A40-4FDC-469B-B30B-5C704666E38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2DE480D-210D-4CAA-BF26-F8CE398A63B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DE480D-210D-4CAA-BF26-F8CE398A63B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DE480D-210D-4CAA-BF26-F8CE398A63B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DE480D-210D-4CAA-BF26-F8CE398A63B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEF6A40-4FDC-469B-B30B-5C704666E38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEF6A40-4FDC-469B-B30B-5C704666E38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEF6A40-4FDC-469B-B30B-5C704666E38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEF6A40-4FDC-469B-B30B-5C704666E38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
